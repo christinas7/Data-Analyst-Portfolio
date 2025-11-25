@@ -10,6 +10,6 @@ Each phase includes:
 
 Not every dataset will include a visualization, but all will provide extracts of the MySQL code used to create and update databases, tables, and values, as well as the queries used for data extraction.
 
-All documentation and visualizations will have an identifier with either my github handle or first name and last initial to verify authorship.
+All documentation and visualizations will be a screen shot of the original visualization and will have an identifier with either my github handle or first name and last initial to verify authorship.
 
 Thank you again for visiting my portfolio and taking the time to explore my work.
